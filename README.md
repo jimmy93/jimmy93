@@ -1,7 +1,7 @@
 ## Assalamualaikum
 ### Hi there 👋
 
-A tech enthusiast, smart home and cyber security.\
+A tech enthusiast, smart home and cyber security.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jimmy93.jimmy93.visitor-badge) 
 
