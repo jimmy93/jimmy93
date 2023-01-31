@@ -1,4 +1,9 @@
+## Assalamualaikum
 ### Hi there 👋
+
+A tech enthusiast, smart home and cyber security.\
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jimmy93.jimmy93.visitor-badge) 
 
 <!--
 **jimmy93/jimmy93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
